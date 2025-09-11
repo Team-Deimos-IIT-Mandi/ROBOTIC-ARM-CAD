@@ -53,4 +53,4 @@ Here are some rendered images of the robotic arm:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Team-Deimos-IIT-Mandi/ROBOTIC-ARM-CAD
+   git clone https://github.com/Team-Deimos-IIT-Mandi/ROBOTIC-ARM-CAD.git
